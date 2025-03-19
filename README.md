@@ -1,6 +1,8 @@
 ## Olá, Me chamo Vitor, também conhecido como "Fraz" ou "Bauducco" 👋
 
-<div>
+<img width="1500px" src="https://steamuserimages-a.akamaihd.net/ugc/260461180148762489/495402C522F43392AC35E8CEDF252DBEC9BDAC63/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
+
+<div align-items="center" >
   <img height=180em src="https://github-readme-stats.vercel.app/api?username=VitorFraz&theme=great-gatsby&show_icons=true&hide_border=false&count_private=false">
   <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorFraz&theme=great-gatsby&show_icons=true&hide_border=false&layout=compact">
 </div>
@@ -19,11 +21,6 @@
 - 🗣️ Inglês e Português / English and Portuguese
 - 📖 Estudando varias linguagens de programação
 - 😄 Sobre Mim: meu jogo favorito é Warframe e adoro filmes do Godzilla
-- Minhas redes sociais:
-
-  <div>
-    <a href="vfbarduco@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-  </div>
 
 ##
 
