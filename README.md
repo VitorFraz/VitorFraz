@@ -11,4 +11,3 @@
 - 🎮 Pretendo trabalhar no futuro como GameDev
 - 🗣️ Fluente em Inglês
 - 🌱 Ele/dele
-- 🧨 Adoro Jogos (Warframe) e Filmes de Ação (Godzilla)
