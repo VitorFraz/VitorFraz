@@ -7,7 +7,8 @@
 
 ##
 
-- 📖 Estou ainda estudando varias lingugens em programação
 - 🎮 Pretendo trabalhar no futuro como GameDev
-- 🗣️ Fluente em Inglês
+- 🗣️ Inglês e Português / English and Portuguese
 - 🌱 Ele/dele
+- 📖 Estou ainda estudando varias linguagens de programação
+- 😄 Sobre Mim: meu jogo favorito é Warframe e adoro filmes do Godzilla
