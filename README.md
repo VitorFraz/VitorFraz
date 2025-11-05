@@ -19,8 +19,6 @@
 
 - 🎮 Pretendo trabalhar no futuro como GameDev
 - 🗣️ Inglês e Português / English and Portuguese
-- 📖 Estudando varias linguagens de programação
-- 😄 Sobre Mim: meu jogo favorito é Warframe e adoro filmes do Godzilla
 
 ##
 
